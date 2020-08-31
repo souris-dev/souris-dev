@@ -3,9 +3,9 @@
 
 Here's some quick info about me:
 
-- 🔭 I’m currently working on Flutter, App Development, Deep Learning and Open Source
-- 🌱 I’m currently learning Flutter, Native Android Devlopment, Deep Learning
-- 👯 I’m looking to collaborate on App Development, Deep Learning projects
+- 🔭 I’m currently working on Flutter, App Development, Deep Learning and open source contributions
+- 🌱 I’m currently learning Flutter, Native Android Devlopment, and about Deep Learning
+- 👯 I’m looking to collaborate on App Development and Deep Learning projects
 - 📫 How to reach me: 
       LinkedIn: https://www.linkedin.com/in/souris-ash-32045719a/
 
