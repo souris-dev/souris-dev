@@ -13,6 +13,6 @@ I love to contribute to open source projects and am quite passionate about them,
 
 ### Experience:
 
-Open Source contributor at @pandas-dev and @chapel-lang.
+Open Source contributor at [@pandas-dev](pandas/pandas) and [@chapel-lang](chapel-lang).
 
 Part-time position as Flutter Mobile App Developer at [Vorby](https://www.linkedin.com/company/vorby), a startup providing higher education counselling services and courses.
