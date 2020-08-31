@@ -1,7 +1,7 @@
 ### Hello, there! 👋
 #### I'm Souris Ash.
 
-Here are some ideas to get you started:
+Here's some quick info about me:
 
 - 🔭 I’m currently working on Flutter, App Development, Deep Learning and Open Source
 - 🌱 I’m currently learning Flutter, Native Android Devlopment, Deep Learning
