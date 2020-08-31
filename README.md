@@ -8,8 +8,8 @@ Here's some quick info about me:
 - 👯 I’m looking to collaborate on App Development and Deep Learning projects
 - 📫 How to reach me: 
       
-      LinkedIn: (Souris Ash)[https://www.linkedin.com/in/souris-ash-32045719a/]
-      E-mail: (suorees113@gmail.com)[mailto://suorees113@gmail.com]
+  LinkedIn: (Souris Ash)[https://www.linkedin.com/in/souris-ash-32045719a/]
+  E-mail: (suorees113@gmail.com)[mailto://suorees113@gmail.com]
 
 I love to contribute to open source projects and am quite passionate about them, because for some reason I find it really interesting to work with so many people and the large source code.
 
