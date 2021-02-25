@@ -12,10 +12,4 @@ Here's some quick info about me:
   
   E-mail: [suorees113@gmail.com](mailto://suorees113@gmail.com)
 
-I love to contribute to open source projects and am quite passionate about them, because for some reason I find it really interesting to work with so many people and the large source code.
-
-### Experience:
-
-Open Source contributor at [@pandas-dev](https://github.com/pandas-dev/pandas) and [@chapel-lang](https://github.com/chapel-lang).
-
-Part-time position as Flutter Mobile App Developer at [Vorby](https://www.linkedin.com/company/vorby), a startup providing higher education counselling services and courses.
+I love to contribute to open source projects and am quite passionate about them, because for some reason I find it really interesting to work with so many people and explore codebases to learn more.
