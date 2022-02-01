@@ -3,8 +3,8 @@
 
 Here's some quick info about me:
 
-- 🔭 I’m currently working on web development (frontent and backend) and periodically, compiler development.
-- 🌱 I am interested in machine learning, deep learning and natural language processing too.
+- 🔭 I’m currently working on web development (frontent and backend) and compiler development as a hobby.
+- 🌱 I am interested in distributed systems and backends, machine learning, deep learning and natural language processing too.
 - 👯 I also have some experience building apps in Flutter.
 - 📫 How to reach me: 
       
