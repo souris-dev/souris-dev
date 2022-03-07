@@ -10,6 +10,6 @@ Here's some quick info about me:
       
   LinkedIn: [Souris Ash](https://www.linkedin.com/in/souris-ash-32045719a/)
   
-  E-mail: [suorees113@gmail.com](mailto://suorees113@gmail.com)
+  E-mail: [souris.ash@gmail.com](mailto://souris.ash@gmail.com)
 
 I love to contribute to open source projects and am quite passionate about them!
